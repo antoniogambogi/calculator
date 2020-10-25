@@ -11,7 +11,7 @@ props: {
     label: {},
     operation: { type: Boolean},
     double: { type: Boolean},
-    tiple: { type: Boolean}
+    triple: { type: Boolean}
 }
 }
 </script>
