@@ -1,3 +1,6 @@
+
+Calculadora desenvolvida com HTML/CSS/JavasScript, utilizando o framework Vue.
+
 # calculator
 
 ## Project setup
